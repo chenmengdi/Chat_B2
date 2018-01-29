@@ -1,0 +1,31 @@
+//
+//  Chat.pch
+//  Chart_B2
+//
+//  Created by 朱 广宇 on 2017/9/5.
+//  Copyright © 2017年 陈孟迪. All rights reserved.
+//
+
+#ifndef Chat_pch
+#define Chat_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#endif
+#ifdef __OBJC__
+#import "UITableView+SDAutoTableViewCellHeight.h"
+#import "UIView+SDAutoLayout.h"
+#import "UIViewExt.h"
+#import "AllCommonMethods.h"
+#import "UIColor+colorWithHex.h"
+#import "ShowReturnView.h"
+
+#import "CCVoiceManager.h"
+
+#define kScreenBounds [UIScreen mainScreen].bounds
+#define kScreenWidth CGRectGetWidth([UIScreen mainScreen].bounds)
+#define kScreenHeight CGRectGetHeight([UIScreen mainScreen].bounds)
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif /* Chat_pch */

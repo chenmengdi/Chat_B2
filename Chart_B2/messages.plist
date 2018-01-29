@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>voice</key>
+		<string></string>
+		<key>length</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>text</key>
+		<string>若有人兮山之阿，被薛荔兮带女萝；既含睇兮又宜笑，子慕予兮善窈窕； 乘赤豹兮从文狸，辛夷车兮结桂旗；被石兰兮带杜衡，折芳馨兮遗所思； 余处幽篁兮终不见天，路险难兮独后来；表独立兮山之上， 云容容兮而在下</string>
+		<key>time</key>
+		<string>前天 10:27</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>messageType</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>length</key>
+		<string></string>
+		<key>voice</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>text</key>
+		<string>杳冥冥兮羌昼晦，东风飘兮神灵雨；留灵修兮澹忘归， 岁既晏兮孰华予；采三秀兮于山间，石磊磊兮葛蔓蔓；怨公子兮怅忘归， 君思我兮不得闲；山中人兮芳杜若，饮石泉兮荫松柏；君思我兮然疑作； 雷填填兮雨冥冥，爰啾啾兮穴夜鸣；</string>
+		<key>time</key>
+		<string>前天 10:28</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>messageType</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>length</key>
+		<string></string>
+		<key>voice</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>text</key>
+		<string>风飒飒兮木萧萧，思公子兮徒离忧 【译文】 仿佛有人经过深山谷坳，身披薜荔啊腰束女萝。</string>
+		<key>time</key>
+		<string>昨天 20:05</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>messageType</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>length</key>
+		<string></string>
+		<key>voice</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>text</key>
+		<string>含情流盼啊嫣然一笑，温柔可爱啊形貌娇好。驾着赤豹啊紧跟文狸，辛夷为车啊桂花饰旗。披着石兰啊结着杜衡，折枝鲜花啊聊寄相思。</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>messageType</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>length</key>
+		<string></string>
+		<key>voice</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>text</key>
+		<string>竹林深处啊暗无天日，道路险峻啊独自来迟。孤身一人啊伫立山巅，云海茫茫啊浮游卷舒。山色幽暗啊白昼如夜，东风狂舞啊神灵降雨。</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>messageType</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>length</key>
+		<string></string>
+		<key>voice</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>text</key>
+		<string>抱怨公子啊怅然忘却归去，你思念我啊却没空到来。山中人儿就像杜若般芳洁，口饮石泉啊头顶松柏。</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>messageType</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>length</key>
+		<string></string>
+		<key>voice</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>text</key>
+		<string>抱怨公子啊怅然忘却归去，你思念我啊却没空到来。山中人儿就像杜若般芳洁，口饮石泉啊头顶松柏。</string>
+		<key>time</key>
+		<string>昨天 20:11</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>messageType</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>length</key>
+		<string></string>
+		<key>voice</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>text</key>
+		<string>若有人兮山之阿，被薛荔兮带女萝；既含睇兮又宜笑，子慕予兮善窈窕； 乘赤豹兮从文狸，辛夷车兮结桂旗；被石兰兮带杜衡，折芳馨兮遗所思； 余处幽篁兮终不见天，路险难兮独后来；</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>messageType</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>length</key>
+		<string></string>
+		<key>voice</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>text</key>
+		<string>表独立兮山之上， 云容容兮而在下；杳冥冥兮羌昼晦，东风飘兮神灵雨；留灵修兮澹忘归， 岁既晏兮孰华予；采三秀兮于山间，石磊磊兮葛蔓蔓；怨公子兮怅忘归， 君思我兮不得闲；</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>messageType</key>
+		<string>0</string>
+	</dict>
+</array>
+</plist>
